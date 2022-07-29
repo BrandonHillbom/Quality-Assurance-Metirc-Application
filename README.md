@@ -1,6 +1,6 @@
 # Quality Assurance Metric Application
 
-This is a project made with Flutter for a Software Testing and Validation class at the U of R. 
+This is a project made with Flutter and Dart for a Software Testing and Validation class at the U of R. 
 
 
 ## Overview
